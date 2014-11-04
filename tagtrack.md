@@ -1,6 +1,7 @@
 ME495 Tag Tracking
 ========================
 
+![Image](http://www.qrstuff.com/images/sample.png)
 
 ## Mini Project 1
 
@@ -35,6 +36,7 @@ Using the checkerboard, you will run through the [monocular calibration tutorial
 [ar_track_alvar](http://wiki.ros.org/ar_sys)  
 
 You will need to either install the package if it has been released or clone it from github.
+
 
 
 ## Quantifiable results
